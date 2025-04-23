@@ -104,13 +104,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Prediction results are for reference only and do not constitute investment advice
 - Actual prices are influenced by various factors and may deviate from predictions
-
-## dTAO价格机制简介
-
-在Bittensor的Dynamic TAO (dTAO) 系统中，每个子网都有自己的Alpha代币，其价格由流动性池中的TAO和Alpha代币数量决定：
-
-```
-价格 = 流动性池中的TAO数量(tau_in) / 流动性池中的Alpha数量(alpha_in)
-```
-
-每个区块，网络会根据子网Alpha代币的价格比率分配新铸造的TAO代币。价格较高的子网将获得更多的TAO发行量，这激励了市场参与者支持有价值的子网。 
