@@ -1,0 +1,25 @@
+# Basic dependencies
+bittensor>=5.0.0
+matplotlib>=3.5.2
+numpy>=1.22.3
+pandas>=1.4.2
+scikit-learn>=1.0.2
+requests>=2.27.1
+
+# Deep learning model dependencies
+tensorflow>=2.8.0
+
+# Time series model dependencies
+statsmodels>=0.13.2
+
+# Gradient boosting model dependencies
+xgboost>=1.5.1
+
+# Facebook Prophet dependencies
+prophet>=1.1.1
+
+# GUI dependencies
+tk>=0.1.0
+
+# Packaging dependencies
+pyinstaller>=5.6.2 
