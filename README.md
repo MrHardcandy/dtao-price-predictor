@@ -21,7 +21,7 @@ A tool for analyzing and predicting Bittensor subnet dTAO token price trends, he
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/dtao-price-predictor.git
+git clone https://github.com/MrHardcandy/dtao-price-predictor.git
 cd dtao-price-predictor
 
 # Install required Python dependencies
